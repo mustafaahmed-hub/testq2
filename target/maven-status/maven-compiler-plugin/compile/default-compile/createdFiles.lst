@@ -1,0 +1,7 @@
+com\testby\bypretestq2\dto\AvailRequestDTO.class
+com\testby\bypretestq2\service\AvailabilityAndCapacityService.class
+com\testby\bypretestq2\ByPretestq2Application.class
+com\testby\bypretestq2\dto\AvailResponseDTO.class
+com\testby\bypretestq2\controller\AvalabilityAndCapacityController.class
+com\testby\bypretestq2\model\Availability.class
+com\testby\bypretestq2\model\Capacity.class
